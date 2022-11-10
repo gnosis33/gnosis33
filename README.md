@@ -7,3 +7,7 @@ I am currently learning:
 Html
 Css
 Git
+
+What iv'e done so far:
+
+https://github.com/gnosis33/DevSlopes
